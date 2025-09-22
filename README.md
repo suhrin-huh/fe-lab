@@ -8,6 +8,12 @@
 
 1. JavaScript 기초
 
+- [x] var, let, const
+- [x] Hoisting
+- [x] 즉시 실행 함수 (IIFE)
+- [x] 원시 타입 vs 참조 타입
+- [x] Rest 연산자 / Spread 연산자
+
 2. JavaScript 동작 원리
 
 3. DOM & 브라우저 렌더링
